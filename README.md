@@ -1,5 +1,5 @@
 # Fireball Mod Loader 1.2/1.0
->[Warning]
+>!(WARN)
 > This is not a ready project, it's in development and some items need to be fixed.
 > If you see that it's ready (aka replaced with this text with Note), you can start using it.
 > Mod making for this loader is not optional but PLEASE add Fireball API into `mobs/` dir so it can start.
