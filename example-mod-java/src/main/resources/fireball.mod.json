@@ -1,0 +1,9 @@
+{
+  "id": "example_java",
+  "name": "Example Java Mod",
+  "version": "1.0.0",
+  "description": "A simple example mod written in Java for Fireball",
+  "authors": ["Fireball Team"],
+  "entrypoint": "dev.example.ExampleJavaMod",
+  "depends": ["fireball_api"]
+}
