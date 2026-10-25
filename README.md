@@ -2,7 +2,12 @@
 > [!WARNING]
 > This project is not-yet ready production. This is only a prototype for now.
 >
-TODO: Fix items.
+# Current Fixes & Tests Needed:
+```text
+Server Ping works, but while entering the server: it disconnects,
+Client/Server runtime bridge is incomplete (ignore CLIENT.md for now),
+Question of: "Is the Modloader working?"
+```
 
 **Fireball** is an educational, from-scratch Minecraft mod loader prototype written in **Java**.
 
