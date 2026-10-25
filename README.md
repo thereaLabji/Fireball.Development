@@ -166,4 +166,4 @@ mobs/fireball-api-1.0.0.jar
 mobs/fireball-assistant-1.0.0.jar
 ```
 
-The official Mojang client/server artifacts remain separate from Fireball's loader JARs. Fireball can download the official Mojang artifacts from Mojang's metadata service and verify their SHA-1 hashes; it does not bypass Minecraft authentication. Minecraft 1.21.1 officially has both client and server artifacts and requires Java 21. citeturn0search0turn0search1
+The official Mojang client/server artifacts remain separate from Fireball's loader JARs. Fireball can download the official Mojang artifacts from Mojang's metadata service and verify their SHA-1 hashes; it does not bypass Minecraft authentication. Minecraft 1.21.1 officially has both client and server artifacts and requires Java 21.
