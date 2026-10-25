@@ -1,0 +1,8 @@
+{
+  "id": "fireball_api",
+  "name": "Fireball API",
+  "version": "1.0.0",
+  "description": "Official Fireball API for mods (events, initializers, annotations)",
+  "authors": ["Fireball Team"],
+  "entrypoint": "dev.fireball.apimod.FireballApiMod"
+}

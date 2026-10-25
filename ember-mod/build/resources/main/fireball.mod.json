@@ -1,0 +1,9 @@
+{
+  "id": "ember",
+  "name": "Ember",
+  "version": "1.0.0",
+  "description": "The first Fireball content mod. Lights the way.",
+  "authors": ["Fireball Team"],
+  "entrypoint": "dev.ember.EmberMod",
+  "depends": ["fireball_api"]
+}

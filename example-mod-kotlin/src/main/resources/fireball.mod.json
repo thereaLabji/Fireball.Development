@@ -1,0 +1,9 @@
+{
+  "id": "example_kotlin",
+  "name": "Example Kotlin Mod",
+  "version": "1.0.0",
+  "description": "A simple example mod written in Kotlin for Fireball",
+  "authors": ["Fireball Team"],
+  "entrypoint": "dev.example.ExampleKotlinMod",
+  "depends": ["fireball_api"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fireball_assistant",
+  "name": "Fireball Assistant",
+  "version": "1.0.0",
+  "description": "Fireball's built-in challenge mod. Demonstrates a real Fireball API dependency.",
+  "authors": ["Fireball Team"],
+  "entrypoint": "dev.fireball.assistant.FireballAssistantMod",
+  "depends": ["fireball_api"]
+}

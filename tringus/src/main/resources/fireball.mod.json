@@ -1,0 +1,9 @@
+{
+  "id": "tringus",
+  "name": "Tringus",
+  "version": "0.0.1",
+  "description": "A simple mod for Fireball, used to utilize minecraft.",
+  "authors": ["Fireball Team", "zebaji", "thereaLabji"],
+  "entrypoint": "dev.zebaji.Tringus",
+  "depends": ["fireball_api"]
+}
